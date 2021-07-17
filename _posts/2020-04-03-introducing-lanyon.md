@@ -1,38 +1,12 @@
 ---
-layout: post
-title: Introducing Lanyon
+layout: page
+title: Samkit Dayak | Vijay Ramchandra Suri
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+दीक्षायुग प्रवर्तक जैनशासन शिरताज तपागच्छाधिराज परमपूज्य आचार्यदेव श्रीमद् विजय रामचन्द्र सूरीश्वरजी महाराजा ।
 
-### Built on Poole
+![Shri Vijay Ramchandra Suri](/public/images/homePageImg1.jpg)
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
-### Lanyon features
-
-In addition to the features of Poole, Lanyon adds the following:
-
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
-
-### Browser support
-
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+गुजरात के पादरा गांव से प्रारंभ हुई आपकी जीवन यात्रा अहमदाबाद में समाप्त हुई थी । जन्म होते ही पिता की छत्रछाया का अभाव होना एवं सात वर्ष की उम्र होते ही माता का देहावसान होना अप्रासंगिक था । तथापि आपका संस्करण आपके पडदादी के ममतामय स्वभाव के चलते उत्तम था । संसारी अवस्था में 'सबुडा' के नाम से प्रसिद्ध आपका पूरा नाम त्रिभुवनपाल छोटालाल शाह था । आपकी दीक्षा काफी कठिनाई से हुई थी , और उसी समय आपने दीक्षा धर्म के संरक्षण का संकल्प लिया था । आपके संकल्प के बदौलत ही आज सैंकड़ों संख्या में श्रमण-श्रमणी के दर्शन हो रहे है एवं दीक्षाएं हो रही है । मुनि श्री प्रेमविजयजी म.को गुरुपद पर स्थापन करने के पश्चात गुरु - आदेश एवं गुरुकृपा से आपकी प्रवचन श्रृंखला का प्रारंभ हुआ था , जो नौ दशक तक अविछिन्न रहा ।  जीवन-काल के दौरान आपका प्रत्येक आचार - विचार - व्यहवार का केंद्र बिन्दु 'सम्यग्दर्शन' था। सम्यग्दर्शन का पर्यायवाची शब्द है 'समकित` । आपके शुभ आलंबन से लाखों की संख्या में जन समुदाय ने समकित प्राप्त किया है । इसी वजह से ' समकित दायक ' के स्वरूप में आप जन-मन में सम्मानित थे एवं आज भी है ।
+आइए ,
+निहारते है ' समकित दायक ' महापुरुष के जीवन-यात्रा की उल्लेखनीय झांकियों को ....
