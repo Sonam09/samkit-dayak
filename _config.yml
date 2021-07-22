@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Samkit Dayak | Vijay Ramchandra Suri
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  दीक्षायुग प्रवर्तक जैनशासन शिरताज तपागच्छाधिराज परमपूज्य आचार्यदेव श्रीमद् विजय रामचन्द्र सूरीश्वरजी महाराजा।
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -54,3 +52,30 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Color Scheme
+color_scheme: theme
+
+# Search Config
+search_enabled: false
+
+# # Define Jekyll collections
+# collections:
+#   # Define a collection named "docs", its documents reside in the "_docs" directory
+#   docs:
+#     permalink: "/:collection/:path/"
+#     output: true
+
+# just_the_docs:
+#   # Define which collections are used in just-the-docs
+#   collections:
+#     # Reference the "docs" collection
+#     docs:
+#       # Give the collection a name
+#       name: Documentation
+#       # Exclude the collection from the navigation
+#       # Supports true or false (default)
+#       nav_exclude: false
+#       # Exclude the collection from the search
+#       # Supports true or false (default)
+#       search_exclude: false
