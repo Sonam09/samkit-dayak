@@ -1,7 +1,7 @@
 # Setup
 title:               Samkit Dayak
 tagline:             'Vijay Ramchandra Suri'
-description:         ''
+description:         'दीक्षायुग प्रवर्तक जैनशासन शिरताज तपागच्छाधिराज परमपूज्य आचार्यदेव श्रीमद् विजय रामचन्द्र सूरीश्वरजी महाराजा।'
 url:                 https://sonam09.github.io/samkit-dayak
 baseurl:             ''
 paginate:            5
@@ -14,8 +14,15 @@ author:
   # email:             
 
 # Gems
-# plugins:
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 #   - jekyll-paginate
+
+locale: 'hi_IN'
+webmaster_verifications:
+  google: FP67GLZDOceOip6Rr8ZasbtaOiLxmshfAHQvRohevOc
+#   bing:
 
 # Custom vars
 version:             1.1.0
