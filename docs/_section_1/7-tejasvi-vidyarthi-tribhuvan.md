@@ -2,6 +2,7 @@
 layout: post
 title: ७. तेजस्वी विद्यार्थी त्रिभुवन
 parent: Section 1
+date: 2021-04-07
 order: 7
 ---
 

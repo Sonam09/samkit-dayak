@@ -2,6 +2,7 @@
 layout: post
 title: २२. रामायण में संस्कृति का आदर्श
 parent: Section 2
+date: 2021-04-06
 order: 22
 ---
 

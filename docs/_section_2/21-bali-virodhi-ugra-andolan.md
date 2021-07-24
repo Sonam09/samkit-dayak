@@ -2,6 +2,7 @@
 layout: post
 title: २१. बलि विरोधी उग्र आंदोलन
 parent: Section 2
+date: 2021-04-05
 order: 21
 ---
 

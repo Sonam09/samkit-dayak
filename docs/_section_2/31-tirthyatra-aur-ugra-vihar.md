@@ -2,6 +2,7 @@
 layout: post
 title: ३१. तीर्थयात्रा और उग्र विहार
 parent: Section 2
+date: 2021-04-15
 order: 31
 ---
 

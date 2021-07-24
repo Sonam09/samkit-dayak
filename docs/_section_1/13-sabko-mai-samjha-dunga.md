@@ -2,6 +2,7 @@
 layout: post
 title: १३. सबको मैं समझा दूंगा
 parent: Section 1
+date: 2021-04-13
 order: 13
 ---
 

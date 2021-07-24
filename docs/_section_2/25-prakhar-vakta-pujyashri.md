@@ -2,6 +2,7 @@
 layout: post
 title: २५. प्रखर वक्ता पूज्यश्री
 parent: Section 2
+date: 2021-04-09
 order: 25
 ---
 

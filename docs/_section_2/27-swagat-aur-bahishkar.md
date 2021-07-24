@@ -2,6 +2,7 @@
 layout: post
 title: २७. स्वागत और बहिष्कार
 parent: Section 2
+date: 2021-04-11
 order: 27
 ---
 

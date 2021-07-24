@@ -2,6 +2,7 @@
 layout: post
 title: १२. कठीन परिश्रम से प्राप्त हुई दीक्षा
 parent: Section 1
+date: 2021-04-12
 order: 12
 ---
 

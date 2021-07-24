@@ -2,6 +2,7 @@
 layout: post
 title: २०. होटलों का बहिष्कार
 parent: Section 2
+date: 2021-04-04
 order: 20
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: ३०. जैन प्रवचन प्रारंभ
 parent: Section 2
+date: 2021-04-14
 order: 30
 ---
 

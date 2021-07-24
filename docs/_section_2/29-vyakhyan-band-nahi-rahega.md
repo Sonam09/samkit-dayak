@@ -2,6 +2,7 @@
 layout: post
 title: २९. व्याख्यान बंद नहीं रहेगा
 parent: Section 2
+date: 2021-04-13
 order: 29
 ---
 

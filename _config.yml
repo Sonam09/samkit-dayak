@@ -19,11 +19,13 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+# google_analytics_id: #UA-XXXX-Y
 
 collections_dir: docs
 collections:
   section_1:
     output: true
+    sort_by: order
   section_2:
     output: true
+    sort_by: order

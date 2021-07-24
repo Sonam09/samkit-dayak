@@ -2,6 +2,7 @@
 layout: post
 title: १८. ऐसे कपड़े न पहनें
 parent: Section 2
+date: 2021-04-02
 order: 18
 ---
 

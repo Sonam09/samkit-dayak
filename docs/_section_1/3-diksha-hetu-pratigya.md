@@ -2,6 +2,7 @@
 layout: post
 title: ३. दीक्षा हेतु  प्रतिज्ञा
 parent: Section 1
+date: 2021-04-03
 order: 3
 ---
 
