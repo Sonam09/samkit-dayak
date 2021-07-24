@@ -197,7 +197,10 @@ $nav-child-link-color: $white;
   }
 
   /* Sidebar content */
-  #side-bar a {
+  .side-bar > * {
+    width: 100% !important;
+  }
+  .side-bar a {
     font-weight: normal;
     color: #fff;
   }
