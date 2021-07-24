@@ -2,6 +2,7 @@
 layout: post
 title: १. एक पुण्य सितारे का उदय
 parent: Section 1
+order: 1
 ---
 
 | **जन्म**                       | वि. सं. १९५२, फाल्गुन वदि ४ |
