@@ -323,6 +323,12 @@ a.sidebar-nav-item:focus {
   margin-top: 0;
 }
 
+.post-image {
+  width: 100vh;
+  max-height: 40vh;
+  object-fit: contain
+}
+
 /* Meta data line below post title */
 .post-date {
   display: block;
