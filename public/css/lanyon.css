@@ -307,6 +307,11 @@ a.sidebar-nav-item:focus {
   margin-bottom: 4em;
 }
 
+.page p,
+.post p {
+  text-align: justify;
+}
+
 /* Blog post or page title */
 .page-title,
 .post-title,
