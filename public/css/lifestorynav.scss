@@ -1,0 +1,37 @@
+---
+---
+
+/* Sidebar nav */
+.lifestory-nav {
+	border-bottom: 1px solid rgba(255,255,255,.1);
+  overflow: scroll;
+
+    .tab-content {
+      overflow: scroll;
+    }
+}
+.lifestory-nav-item {
+	display: block;
+	padding: .5rem 1rem;
+	border-top: 1px solid rgba(255,255,255,.1);
+}
+.lifestory-nav-item.active {
+	text-decoration: none;
+	background-color: rgba(255,255,255,.1);
+	border-color: transparent;
+}
+a.lifestory-nav-item {
+    font-weight: normal;
+    color: #fff !important;
+
+	&:hover {
+		text-decoration: none;
+		background-color: rgba(255,255,255,.1);
+		border-color: transparent;
+	}
+	&:focus {
+		text-decoration: none;
+		background-color: rgba(255,255,255,.1);
+		border-color: transparent;
+	}
+}

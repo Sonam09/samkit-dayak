@@ -1,0 +1,29 @@
+<div class="lifestory-nav-bar" id="lifestory-nav-bar">
+  <!-- Toggleable sidebar -->
+  <nav class="lifestory-nav">
+    <link rel="stylesheet" href="{{ '/public/css/accordian.css' | absolute_url }}">
+    <div class="tabs">
+      {% assign sections = site.collections | where_exp: "item", "item.label contains 'section'" %}
+      {% for section in sections %}
+        <div class="tab">
+          <input type="radio" id="rd{{ section.label }}" name="rd">
+          <label class="tab-label" for="rd{{ section.label }}">{{ section.label | replace: '_', ' ' | capitalize }}</label>
+          <div class="tab-content">
+            {% assign pages_list = section.docs | where_exp: "item", "item.title != null" | sort: "order" %}
+            {% for node in pages_list %}
+              {% if node.layout == "post" %}
+                <a class="lifestory-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
+              {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    
+    <!--
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    -->
+  </nav>
+</div>
