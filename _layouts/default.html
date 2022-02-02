@@ -5,29 +5,44 @@
 
   <body class="theme-base-08">
 
-    {% include sidebar.html %}
+    <header class="main-menu-header" id="main-menu-header">
+      <!-- Hamburger menu for mobile screens -->
+      <input class="side-menu" type="checkbox" id="side-menu"/>
+      <label class="hamburger-menu" for="side-menu">
+        <span class="hamburger-line"></span>
+      </label>
 
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
+      <div class="header-title">
         <div class="container">
-          <h3 class="masthead-title">
+          <h3 class="title">
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
           </h3>
         </div>
       </div>
 
+      <nav class="nav">
+        <ul class="menu">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Life Story</a> </li>
+          <li><a href="#">Visual</a></li>
+          <li><a href="#">Audio</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
       <div class="container content">
         {{ content }}
       </div>
     </div>
 
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    <!-- <label for="sidebar-checkbox" class="sidebar-toggle"></label> -->
 
     {%- include footer.html -%}
 
-    <script src='{{ site.baseurl }}/public/js/script.js'></script>
+    <!-- <script src='{{ site.baseurl }}/public/js/script.js'></script> -->
   </body>
 </html>
